@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="app_name">Hermes</string>
+    <string name="intro_item_1_text">Connect with people without centralized connections</string>
+    <string name="intro_item_2_text">Hermes uses Bluetooth, Wifi and Location to build connection</string>
+    <string name="intro_item_3_text">Everything happen in local. All your data will be kept in your device</string>
+    <string name="intro_item_4_text">Welcome to Hermes</string>
+    <string name="intro_page_button">Start Messaging</string>
+    <string name="verification_fragment_title">Enter Your Email Address</string>
+    <string name="verification_fragment_subtitle">Please confirm your email address before further continue </string>
+    <string name="verification_fragment_email_hint">please enter your email</string>
+    <string name="verification_fragment_password_hint">your password</string>
+    <string name="verification_fragment_button">Continue</string>
+    <string name="otp_fragment_title">Enter Your Code</string>
+    <string name="otp_fragment_subtitle">We have sent you an Email with the code to %s</string>
+    <string name="otp_fragment_resend_title">Resend Code</string>
+    <string name="register_screen_title">One last step</string>
+    <string name="register_username_title">Username (required)</string>
+    <string name="register_button">Finish</string>
+</resources>
